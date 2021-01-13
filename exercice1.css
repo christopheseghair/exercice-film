@@ -8,17 +8,17 @@ body {
 }
 
 .image1 {
-  background: url("./assets/disney-cars-aladdin-raiponce-les-clins-d-oeil-caches-dans-les-films-disney-pixar-33-photos.jpg")
+  background: url("./photo compresse/disney-cars-aladdin-raiponce-les-clins-d-oeil-caches-dans-les-films-disney-pixar-33-photos.jpg")
     center/cover;
 }
 
 .image2 {
-  background: url("./assets/cover-r4x3w1000-583516a235146-inception-inception-21-07-2010-5-g.jpg")
+  background: url("./photo compresse/cover-r4x3w1000-583516a235146-inception-inception-21-07-2010-5-g.jpg")
     center/cover;
 }
 
 .image3 {
-  background: url("./assets/EA34B244F31C104EBB202E8A769CE96B56C42AA4FE63E5B93230D4A7A1E15FB0.png")
+  background: url("./photo compresse/EA34B244F31C104EBB202E8A769CE96B56C42AA4FE63E5B93230D4A7A1E15FB0.png")
     center/cover;
 }
 .top {
@@ -28,7 +28,7 @@ body {
 
 header {
   background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
-    url("./assets/Wonder-Woman-1984.jpg") center/cover;
+    url("./photo compresse/Wonder-Woman-1984.jpg") center/cover;
 }
 
 .top-right {
